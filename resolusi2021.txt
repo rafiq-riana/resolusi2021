@@ -1,0 +1,5 @@
+Resolusi 2021
+- saya ingin konsisten untuk belajar pemrograman setiap hari
+- belajar PHP OOP dan framework Laravel
+- membuat beberapa project dari stdui kasus yang ada (minimal 3 project)
+- 2021 jadi seorang beckend programmer
