@@ -3,3 +3,4 @@ Resolusi 2021
 - belajar PHP OOP dan framework Laravel
 - membuat beberapa project dari stdui kasus yang ada (minimal 3 project)
 - 2021 jadi seorang beckend programmer
+- berkolaborasi dengan para expert
